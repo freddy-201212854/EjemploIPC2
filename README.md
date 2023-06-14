@@ -1,4 +1,4 @@
-# EjemploIPC2
+# Laboratorio IPC23
 
 # Freddy Monterroso
 # 201212854
